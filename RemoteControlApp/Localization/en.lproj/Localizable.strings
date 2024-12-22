@@ -1,0 +1,56 @@
+/* 
+  Localizable.strings
+  RemoteControlApp
+
+  Created by Zafran on 16/10/2024.
+  
+*/
+
+"Language" = "Language";
+"Select a Language" = "Select a Language";
+"English" = "English";
+"العربية" = "Arabic";
+"Português" = "Portuguese";
+"Français" = "French";
+"Türkçe" = "Turkish";
+"Indonesia" = "Indonesian";
+"Dutch" = "Dutch";
+"onboarding_heading" = "Personalize Your\nTV Remote Experience";
+"startNow" = "Start Now";
+"Select TV Brand" = "Select TV Brand";
+"Search Here" = "Search Here";
+"Enter Brand Name" = "Enter Brand Name";
+"Enter Model Name" = "Enter Model Name";
+"search Channel" = "search Channel";
+"cant_find_channel" = "Can't find the Channel you're\nlooking for?";
+"tell_us_the_brand" = "Tell us the brand and model you need, and we'll update it soon!";
+"submit" = "Submit";
+"cancel" = "Cancel";
+
+"important_notes" = "Important Notes";
+"before_get_started" = "Before we get started, please\nensure the following";
+"instruction_1" = "Your TV is turned on and ready, making sure all connections are properly set up and it’s in a powered state for the next steps.";
+"instruction_2" = "Both your phone and TV are connected to the same Wi-Fi network to enable seamless pairing and communication between the devices.";
+"instruction_3" = "If your phone is connected to a VPN, kindly turn it off to avoid any potential connectivity issues that may interfere with the process.";
+"ready" = "Ready";
+"successfully_connected" = "Successfully Remote Connected";
+
+"remote_control" = "Remote Control";
+"remote" = "Remote";
+"channel" = "Channel";
+"settings" = "Settings";
+"upgrade" = "Upgrade";
+"faq" = "FAQ";
+
+"Settings" = "Settings";
+"Share" = "Share";
+"Rate US" = "Rate US";
+"Feedback" = "Feedback";
+"Privacy Policy" = "Privacy Policy";
+"Restore" = "Restore";
+"Upgrade to premium" = "Upgrade to premium";
+"For access to advanced features and a superior experience!" = "For access to advanced features and a superior experience!";
+"Owned It" = "Owned It";
+"Change language" = "Change language";
+"TV Brand" = "Change Remote";
+

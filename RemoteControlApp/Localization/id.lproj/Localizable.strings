@@ -1,0 +1,51 @@
+/* 
+  Localizable.strings
+  RemoteControlApp
+
+  Created by Zafran on 16/10/2024.
+  
+*/
+"Language" = "Bahasa";
+"Select a Language" = "Pilih Bahasa";
+"English" = "Inggris";
+"العربية" = "Arab";
+"Português" = "Portugis";
+"Français" = "Prancis";
+"Türkçe" = "Turki";
+"Indonesia" = "Bahasa Indonesia";
+"Dutch" = "Belanda";
+"onboarding_heading" = "Personalisasi Pengalaman\nRemote TV Anda";
+"startNow" = "Mulai Sekarang";
+"Select TV Brand" = "Pilih Merek TV";
+"Search Here" = "Cari Di Sini";
+"Enter Brand Name" = "Masukkan Nama Merek";
+"Enter Model Name" = "Masukkan Nama Model";
+"search Channel" = "Cari Saluran";
+"cant_find_channel" = "Tidak dapat menemukan Saluran yang\nAnda cari?";
+"tell_us_the_brand" = "Beritahu kami merek dan model yang Anda butuhkan, dan kami akan memperbarui segera!";
+"submit" = "Kirim";
+"cancel" = "Batal";
+"important_notes" = "Catatan Penting";
+"before_get_started" = "Sebelum kita mulai, harap\npastikan hal berikut";
+"instruction_1" = "TV Anda sudah dinyalakan dan siap, memastikan semua koneksi telah diatur dengan benar dan dalam keadaan menyala untuk langkah selanjutnya.";
+"instruction_2" = "Baik ponsel Anda maupun TV terhubung ke jaringan Wi-Fi yang sama untuk memungkinkan pemairan dan komunikasi yang lancar antar perangkat.";
+"instruction_3" = "Jika ponsel Anda terhubung ke VPN, harap matikan untuk menghindari masalah konektivitas yang dapat mengganggu proses.";
+"ready" = "Siap";
+"successfully_connected" = "Berhasil Terkoneksi Jarak Jauh";
+"remote_control" = "Remote Control";
+"remote" = "Remote";
+"channel" = "Saluran";
+"settings" = "Pengaturan";
+"upgrade" = "Tingkatkan";
+"faq" = "FAQ";
+"Settings" = "Pengaturan";
+"Share" = "Bagikan";
+"Rate US" = "Nilai Kami";
+"Feedback" = "Umpan Balik";
+"Privacy Policy" = "Kebijakan Privasi";
+"Restore" = "Pulihkan";
+"Upgrade to premium" = "Tingkatkan ke premium";
+"For access to advanced features and a superior experience!" = "Untuk akses ke fitur-fitur canggih dan pengalaman yang lebih baik!";
+"Owned It" = "Miliki Itu";
+"Change language" = "Ubah bahasa";
+"TV Brand" = "Merek TV";

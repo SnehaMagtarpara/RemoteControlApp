@@ -1,0 +1,51 @@
+/* 
+  Localizable.strings
+  RemoteControlApp
+
+  Created by Zafran on 16/10/2024.
+  
+*/
+"Language" = "Idioma";
+"Select a Language" = "Selecione um Idioma";
+"English" = "Inglês";
+"العربية" = "Árabe";
+"Português" = "Português";
+"Français" = "Francês";
+"Türkçe" = "Turco";
+"Indonesia" = "Indonésio";
+"Dutch" = "Holandês";
+"onboarding_heading" = "Personalize sua experiência\ncom o controle remoto da TV";
+"startNow" = "Começar Agora";
+"Select TV Brand" = "Selecione a Marca da TV";
+"Search Here" = "Pesquisar Aqui";
+"Enter Brand Name" = "Digite o Nome da Marca";
+"Enter Model Name" = "Digite o Nome do Modelo";
+"search Channel" = "Pesquisar Canal";
+"cant_find_channel" = "Não consegue encontrar o canal que\nestá procurando?";
+"tell_us_the_brand" = "Diga-nos a marca e modelo que você precisa e nós atualizaremos em breve!";
+"submit" = "Enviar";
+"cancel" = "Cancelar";
+"important_notes" = "Notas Importantes";
+"before_get_started" = "Antes de começarmos, por favor\ncertifique-se do seguinte";
+"instruction_1" = "Sua TV está ligada e pronta, garantindo que todas as conexões estejam devidamente configuradas e que esteja em um estado ligado para as próximas etapas.";
+"instruction_2" = "Seu telefone e TV estão conectados à mesma rede Wi-Fi para permitir um emparelhamento e comunicação sem interrupções entre os dispositivos.";
+"instruction_3" = "Se seu telefone estiver conectado a uma VPN, por favor, desligue-a para evitar qualquer problema de conectividade que possa interferir no processo.";
+"ready" = "Pronto";
+"successfully_connected" = "Conexão Remota Realizada com Sucesso";
+"remote_control" = "Controle Remoto";
+"remote" = "Remoto";
+"channel" = "Canal";
+"settings" = "Configurações";
+"upgrade" = "Atualizar";
+"faq" = "FAQ";
+"Settings" = "Configurações";
+"Share" = "Compartilhar";
+"Rate US" = "Avalie-nos";
+"Feedback" = "Feedback";
+"Privacy Policy" = "Política de Privacidade";
+"Restore" = "Restaurar";
+"Upgrade to premium" = "Atualizar para premium";
+"For access to advanced features and a superior experience!" = "Para acesso a recursos avançados e uma experiência superior!";
+"Owned It" = "Possui Isso";
+"Change language" = "Mudar idioma";
+"TV Brand" = "Marca da TV";

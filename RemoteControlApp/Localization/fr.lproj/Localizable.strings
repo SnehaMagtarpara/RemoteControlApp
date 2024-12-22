@@ -1,0 +1,51 @@
+/* 
+  Localizable.strings
+  RemoteControlApp
+
+  Created by Zafran on 16/10/2024.
+  
+*/
+"Language" = "Langue";
+"Select a Language" = "Sélectionnez une Langue";
+"English" = "Anglais";
+"العربية" = "Arabe";
+"Português" = "Portugais";
+"Français" = "Français";
+"Türkçe" = "Turc";
+"Indonesia" = "Indonésien";
+"Dutch" = "Néerlandais";
+"onboarding_heading" = "Personnalisez votre expérience\nde télécommande TV";
+"startNow" = "Commencer Maintenant";
+"Select TV Brand" = "Sélectionnez la Marque de la TV";
+"Search Here" = "Chercher Ici";
+"Enter Brand Name" = "Entrez le Nom de la Marque";
+"Enter Model Name" = "Entrez le Nom du Modèle";
+"search Channel" = "Chercher Canal";
+"cant_find_channel" = "Vous ne trouvez pas la chaîne que\nvous cherchez ?";
+"tell_us_the_brand" = "Dites-nous la marque et le modèle dont vous avez besoin, et nous le mettrons à jour bientôt !";
+"submit" = "Soumettre";
+"cancel" = "Annuler";
+"important_notes" = "Notes Importantes";
+"before_get_started" = "Avant de commencer, veuillez\nvous assurer de ce qui suit";
+"instruction_1" = "Votre TV est allumée et prête, en vous assurant que toutes les connexions sont correctement configurées et qu’elle est sous tension pour les prochaines étapes.";
+"instruction_2" = "Votre téléphone et votre TV sont connectés au même réseau Wi-Fi pour permettre un appairage et une communication sans faille entre les appareils.";
+"instruction_3" = "Si votre téléphone est connecté à un VPN, veuillez le désactiver pour éviter tout problème de connectivité pouvant interférer avec le processus.";
+"ready" = "Prêt";
+"successfully_connected" = "Connexion à Distance Réussie";
+"remote_control" = "Télécommande";
+"remote" = "Télécommande";
+"channel" = "Chaîne";
+"settings" = "Paramètres";
+"upgrade" = "Mettre à Niveau";
+"faq" = "FAQ";
+"Settings" = "Paramètres";
+"Share" = "Partager";
+"Rate US" = "Évaluez-nous";
+"Feedback" = "Retour";
+"Privacy Policy" = "Politique de Confidentialité";
+"Restore" = "Restaurer";
+"Upgrade to premium" = "Mettre à Niveau vers Premium";
+"For access to advanced features and a superior experience!" = "Pour accéder à des fonctionnalités avancées et une expérience supérieure !";
+"Owned It" = "Je l'ai Possédé";
+"Change language" = "Changer de langue";
+"TV Brand" = "Marque de la TV";

@@ -1,0 +1,51 @@
+/* 
+  Localizable.strings
+  RemoteControlApp
+
+  Created by Zafran on 16/10/2024.
+  
+*/
+"Language" = "Taal";
+"Select a Language" = "Selecteer een Taal";
+"English" = "Engels";
+"العربية" = "Arabisch";
+"Português" = "Portugees";
+"Français" = "Frans";
+"Türkçe" = "Turks";
+"Indonesia" = "Indonesisch";
+"Dutch" = "Nederlands";
+"onboarding_heading" = "Personaliseer uw ervaring\nmet de TV-afstandsbediening";
+"startNow" = "Nu Beginnen";
+"Select TV Brand" = "Selecteer TV Merk";
+"Search Here" = "Zoek Hier";
+"Enter Brand Name" = "Voer Merkennaam In";
+"Enter Model Name" = "Voer Modelnaam In";
+"search Channel" = "Zoek Kanaal";
+"cant_find_channel" = "Kan het kanaal niet vinden waar u naar op zoek bent?";
+"tell_us_the_brand" = "Vertel ons het merk en model dat je nodig hebt, en we zullen het snel bijwerken!";
+"submit" = "Indienen";
+"cancel" = "Annuleren";
+"important_notes" = "Belangrijke Notities";
+"before_get_started" = "Voordat we beginnen, zorg ervoor dat u het volgende controleert";
+"instruction_1" = "Zorg ervoor dat uw TV aanstaat en klaar is, en dat alle verbindingen correct zijn ingesteld en in een ingeschakelde staat voor de volgende stappen.";
+"instruction_2" = "Zowel uw telefoon als TV zijn verbonden met hetzelfde Wi-Fi-netwerk om naadloos pairen en communiceren tussen de apparaten mogelijk te maken.";
+"instruction_3" = "Als uw telefoon verbonden is met een VPN, zet deze dan uit om eventuele verbindingsproblemen te voorkomen die het proces kunnen verstoren.";
+"ready" = "Klaar";
+"successfully_connected" = "Met Succes Verbonden";
+"remote_control" = "Afstandsbediening";
+"remote" = "Afstand";
+"channel" = "Kanaal";
+"settings" = "Instellingen";
+"upgrade" = "Upgrade";
+"faq" = "FAQ";
+"Settings" = "Instellingen";
+"Share" = "Delen";
+"Rate US" = "Beoordeel Ons";
+"Feedback" = "Feedback";
+"Privacy Policy" = "Privacybeleid";
+"Restore" = "Herstellen";
+"Upgrade to premium" = "Upgrade naar premium";
+"For access to advanced features and a superior experience!" = "Voor toegang tot geavanceerde functies en een superieure ervaring!";
+"Owned It" = "Heb het Bezit";
+"Change language" = "Taal wijzigen";
+"TV Brand" = "TV Merk";

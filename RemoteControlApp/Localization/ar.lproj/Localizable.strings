@@ -1,0 +1,51 @@
+/* 
+  Localizable.strings
+  RemoteControlApp
+
+  Created by Zafran on 16/10/2024.
+  
+*/
+"Language" = "اللغة";
+"Select a Language" = "اختر لغة";
+"English" = "الإنجليزية";
+"العربية" = "العربية";
+"Português" = "البرتغالية";
+"Français" = "الفرنسية";
+"Türkçe" = "التركية";
+"Indonesia" = "الإندونيسية";
+"Dutch" = "الهولندية";
+"onboarding_heading" = "خصص تجربة التحكم في التلفاز\nالخاصة بك";
+"startNow" = "ابدأ الآن";
+"Select TV Brand" = "اختر علامة التلفاز";
+"Search Here" = "ابحث هنا";
+"Enter Brand Name" = "أدخل اسم العلامة";
+"Enter Model Name" = "أدخل اسم الطراز";
+"search Channel" = "ابحث عن القناة";
+"cant_find_channel" = "لا تستطيع العثور على القناة التي تبحث عنها؟";
+"tell_us_the_brand" = "أخبرنا بالعلامة والطراز الذي تحتاجه، وسنقوم بتحديثه قريبًا!";
+"submit" = "إرسال";
+"cancel" = "إلغاء";
+"important_notes" = "ملاحظات هامة";
+"before_get_started" = "قبل أن نبدأ، يرجى\nالتأكد من ما يلي";
+"instruction_1" = "تأكد من تشغيل التلفاز الخاص بك وجاهزيته، مع التأكد من أن جميع الاتصالات معدة بشكل صحيح وأنه في حالة التشغيل للخطوات التالية.";
+"instruction_2" = "تأكد من أن هاتفك والتلفاز متصلان بنفس شبكة الواي فاي لتمكين الاقتران والتواصل السلس بين الجهازين.";
+"instruction_3" = "إذا كان هاتفك متصلاً بشبكة VPN، يرجى إيقاف تشغيله لتجنب أي مشكلات في الاتصال قد تتداخل مع العملية.";
+"ready" = "جاهز";
+"successfully_connected" = "تم الاتصال عن بعد بنجاح";
+"remote_control" = "التحكم عن بعد";
+"remote" = "عن بعد";
+"channel" = "قناة";
+"settings" = "الإعدادات";
+"upgrade" = "ترقية";
+"faq" = "الأسئلة الشائعة";
+"Settings" = "الإعدادات";
+"Share" = "مشاركة";
+"Rate US" = "قيمنا";
+"Feedback" = "تعليق";
+"Privacy Policy" = "سياسة الخصوصية";
+"Restore" = "استعادة";
+"Upgrade to premium" = "ترقية إلى مميز";
+"For access to advanced features and a superior experience!" = "للحصول على ميزات متقدمة وتجربة أفضل!";
+"Owned It" = "امتلكه";
+"Change language" = "تغيير اللغة";
+"TV Brand" = "علامة التلفاز";

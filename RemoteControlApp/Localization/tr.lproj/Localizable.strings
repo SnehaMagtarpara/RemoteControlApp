@@ -1,0 +1,51 @@
+/* 
+  Localizable.strings
+  RemoteControlApp
+
+  Created by Zafran on 16/10/2024.
+  
+*/
+"Language" = "Dil";
+"Select a Language" = "Bir Dil Seçin";
+"English" = "İngilizce";
+"العربية" = "Arapça";
+"Português" = "Portekizce";
+"Français" = "Fransızca";
+"Türkçe" = "Türkçe";
+"Indonesia" = "Endonezyaca";
+"Dutch" = "Flemenkçe";
+"onboarding_heading" = "TV Uzaktan Kumanda Deneyiminizi\nKişiselleştirin";
+"startNow" = "Şimdi Başla";
+"Select TV Brand" = "TV Markasını Seçin";
+"Search Here" = "Burada Ara";
+"Enter Brand Name" = "Marka Adını Girin";
+"Enter Model Name" = "Model Adını Girin";
+"search Channel" = "Kanal Ara";
+"cant_find_channel" = "Aradığınız kanalı bulamıyor musunuz?";
+"tell_us_the_brand" = "İhtiyacınız olan marka ve modelini bize bildirin, en kısa sürede güncelleyelim!";
+"submit" = "Gönder";
+"cancel" = "İptal";
+"important_notes" = "Önemli Notlar";
+"before_get_started" = "Başlamadan önce, lütfen\nşunları kontrol edin";
+"instruction_1" = "TV’nizin açıldığından ve hazır olduğundan emin olun, tüm bağlantıların doğru bir şekilde ayarlandığından ve sonraki adımlar için çalışır durumda olduğundan emin olun.";
+"instruction_2" = "Telefonunuzun ve TV’nizin aynı Wi-Fi ağına bağlı olduğundan emin olun, böylece cihazlar arasında kesintisiz eşleştirme ve iletişim sağlanabilir.";
+"instruction_3" = "Telefonunuz bir VPN'e bağlıysa, işlemi etkilemesi muhtemel bağlantı sorunlarını önlemek için lütfen kapatın.";
+"ready" = "Hazır";
+"successfully_connected" = "Başarıyla Uzaktan Bağlandı";
+"remote_control" = "Uzaktan Kumanda";
+"remote" = "Kumanda";
+"channel" = "Kanal";
+"settings" = "Ayarlar";
+"upgrade" = "Yükselt";
+"faq" = "SSS";
+"Settings" = "Ayarlar";
+"Share" = "Paylaş";
+"Rate US" = "Bizi Değerlendir";
+"Feedback" = "Geri Bildirim";
+"Privacy Policy" = "Gizlilik Politikası";
+"Restore" = "Geri Yükle";
+"Upgrade to premium" = "Premium'a Yükselt";
+"For access to advanced features and a superior experience!" = "Gelişmiş özelliklere ve üst düzey bir deneyime erişim için!";
+"Owned It" = "Bunu Sahip Oldum";
+"Change language" = "Dili Değiştir";
+"TV Brand" = "TV Markası";
